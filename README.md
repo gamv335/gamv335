@@ -68,12 +68,12 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/gabriel-alejandro-martínez-vólquez-730101101" target="_blank">
+<a href="www.linkedin.com/in/gabriel-alejandro-martínez-vólquez-730101101" target="_blank"/>
 <img src="https://img.shields.io/badge/linkedin:  gamv335-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-<a href="www.linkedin.com/in/gabriel-alejandro-martínez-vólquez-730101101" target="_blank">
-<img src="https://img.shields.io/badge/gamv335-blue?logo=linkedin&logoColor=white" style="margin-bottom: 5px;" width="120" height="30"/>
+<a href="www.linkedin.com/in/gabriel-alejandro-martínez-vólquez-730101101" target="_blank"/>
+<img src="https://img.shields.io/badge/gamv335-blue?logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="linkedin" width="120" height="30"/>
 </a>
 <br>
 
