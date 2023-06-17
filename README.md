@@ -26,11 +26,11 @@
 
 <p align="center">
 
-- **Languages**:
+- **Programming languages**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-    
+    <img src="https://img.shields.io/badge/Python-%233d467d?style=flat&logo=python&logoColor=white" style="margin-bottom: 5px;" alt="linkedin" width="100" height="25">
+    <img src="https://img.shields.io/badge/R-white?style=flat&logo=r&logoColor=blue" style="margin-bottom: 5px;" alt="linkedin" width="100" height="25">
 
 <br>   
     
