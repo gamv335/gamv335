@@ -28,7 +28,6 @@
 
 - **Languages**:
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/:badgeContent?logo=%233776AB)
 
     
 
