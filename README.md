@@ -64,7 +64,7 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align='left'>
 <a href="https://www.linkedin.com/in/gabriel-alejandro-mart%C3%ADnez-v%C3%B3lquez-730101101/" target="_blank">
-<img src="https://img.shields.io/badge/gamv335-blue?logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="linkedin" width="120" height="30"/>
+<img src="https://img.shields.io/badge/gamv335-blue?logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="linkedin" width="120" height="30">
 </a>
 <br>
 
