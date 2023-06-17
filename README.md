@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=996&t=st=1687022877~exp=1687023477~hmac=562a7aae6739cc1bc451ea3545739c904d54d74c268847d0261d656480ade005" width = 250px></picture>
+<picture> <img align="right" src="./Assets/4401280-removebg-preview.png" width = 250px></picture>
 
 <br>
 
