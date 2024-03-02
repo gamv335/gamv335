@@ -7,10 +7,10 @@
 
 <br>
 
-- I am an aspiring software engineer with a solid foundation in agile development, digital learning, and project management.
-- I have recently completed a rigorous software engineering bootcamp co-certification program offered by HyperionDev in collaboration with Imperial College London.
-- I am eager to explore new challenges, collaborate with industry professionals, and stay up-to-date with the latest advancements in the tech industry.
-- I am ready to embrace any learning opportunities that come my way to further enhance my expertise 
+- I am a technical product owner within the Edu Tech sector.
+- Scrum-certified agile professional, coach, facilitator and champion.
+- Data enthusiast, passionate about leveraging data to drive innovation.
+- Eager to explore new challenges, collaborate in tech, and stay up-to-date with the latest advancements in the industry.
 
 <br>
 
