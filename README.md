@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/git-orange?style=flat&logo=git&logoColor=white" style="margin-bottom: 5px;" alt="git" width="100" height="25">
     <img src="https://img.shields.io/badge/Django-darkgreen?style=flat&logo=django&logoColor=white" style="margin-bottom: 5px;" alt="django" width="100" height="25">
     <img src="https://img.shields.io/badge/SQL-navy?style=flat&logo=sqlite&logoColor=white" style="margin-bottom: 5px;" alt="sqlite" width="100" height="25">
-    <img src="https://img.shields.io/badge/streamlit-white?style=flat&logo=streamlit&logoColor=red" style="margin-bottom: 5px;" alt="streamlit" width="100" height="25">
     <img src="https://img.shields.io/badge/docker-white?style=flat&logo=docker&logoColor=blue" style="margin-bottom: 5px;" alt="docker" width="100" height="25">
  
 - **Front-End Development**:
@@ -35,6 +34,8 @@
    <img src="https://img.shields.io/badge/HTML-grey?style=flat&logo=html5&logoColor=white" alt="html" width="100" height="25">
    <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white" alt="css" width="100" height="25">
    <img src="https://img.shields.io/badge/Javascript-%23fcf803?style=flat&logo=javascript&logoColor=black" alt="Javascript" width="100" height="25">
+   <img src="https://img.shields.io/badge/streamlit-white?style=flat&logo=streamlit&logoColor=red" style="margin-bottom: 5px;" alt="streamlit" width="100" height="25">
+
 
 - **Softwares and Tools**:
 
